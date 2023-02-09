@@ -17,6 +17,10 @@ h1 {
     line-height: 115%;
 }
 
+h3{
+    font-size: 35px;
+}
+
 .subheading {
     margin-top: 25px;
 }
@@ -113,6 +117,41 @@ label[for="toggle_button"] span {
     line-height: 175%;
 }
 
+/*Services Sevtion*/
+
+#services_section{
+    padding: 70px 0;
+    background-color:  #a0d2eb;
+}
+
+#services_section h2{
+    font-size: 50px;
+    text-align: center;
+}
+
+.flex_container{
+    margin-top: 50px;
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.card{
+    width: 350px;
+    max-width: calc(90%-40px);
+    background-color: #494D5F;
+    border-radius: 100px;
+    padding: 60px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+}
+
+.card *{
+    text-align: center;
+}
 
 
 /*Media Queries for small displays*/
