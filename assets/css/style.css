@@ -117,7 +117,7 @@ label[for="toggle_button"] span {
     line-height: 175%;
 }
 
-/*Services Sevtion*/
+/*Services Section*/
 
 #services_section{
     padding: 70px 0;
@@ -153,7 +153,42 @@ label[for="toggle_button"] span {
     text-align: center;
 }
 
+/*Footer Section*/
+footer{
+    padding: 70px 0;
+    background-color:#494D5F;
+}
 
+footer h2 {
+    font-size: 50px;
+    text-align: center;
+}
+#schedule-a-meeting{
+    padding: 60px 20px;
+    text-align: center;
+    line-height: 175%;
+    max-width: 90%;  
+}
+
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks>li {
+    display: inline;
+    text-align: center;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    text-align: center;
+    color: white;
+    display: inline-flex;
+    justify-content: center;
+}
 /*Media Queries for small displays*/
 
 @media (max-width:800px){
