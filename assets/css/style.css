@@ -20,3 +20,31 @@ h1 {
 .subheading {
     margin-top: 25px;
 }
+
+/*Header*/
+header{ 
+    padding:100px 25px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.header_text{
+    width: 850px;
+}
+
+.circle{
+    height: 600px;
+    width: 600px;
+    overflow: hidden;
+    border-radius: 50%;
+    border: 20px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle img {
+    height:100%;
+}
+
