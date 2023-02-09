@@ -76,7 +76,14 @@ Used to generate a link where people can schedule a meeting with me.
 Lighthouse
 Lighthouse is a feature of Google Chrome developer tools and is used to assess the performance of the website and its features. Peas see assessment below:
 
-![Lighthouse](https://user-images.githubusercontent.com/75548207/217770707-da5cc953-0b49-43b3-9288-ebb2aa505bf1.PNG)
+For Desktop devices:
+
+![image](https://user-images.githubusercontent.com/75548207/217777043-7dba380d-dfd6-4f57-a567-0cefd3159f84.png)
+
+For Mobile devices:
+
+![image](https://user-images.githubusercontent.com/75548207/217777744-aa54ed49-fc68-426d-b329-afb2aa822a4b.png)
+
 
 HTML and CSS Validation
 I validated both my HTML and CSS code after building the website. It allowed me to incrementally improve my code and upon completion, there were 0 errors found.
