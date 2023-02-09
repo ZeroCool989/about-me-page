@@ -83,6 +83,35 @@ label[for="toggle_button"] span {
     font-size: 40px;
 }
 
+/*About me section*/
+#about_me_section{
+    padding: 100px 0;
+    background-color:  #494D5F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
+
+.about_me_container{
+    width: 750px;
+}
+
+#about_me_section img  {
+    width: 400px;
+    border: 15px solid white;
+}
+
+.about_me_container h2{
+    font-size: 80px;
+}
+.about_me_container p{
+    text-align: justify;
+    line-height: 175%;
+}
+
+
+
 /*Media Queries for small displays*/
 
 @media (max-width:800px){
