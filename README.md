@@ -93,3 +93,10 @@ No errors found
 
 Conclusion
 This one-page website provides a quick and easy way for users to learn about me and my skills. I hope you enjoy exploring it and learning more about me!
+
+Credits
+I have used a number of resources to produce this website, where code has been used found from another source this is credited as a comment within the HTML, CSS files.
+
+
+Acknowledgements
+I would like to thank my course mentor Harry Dhillon for his support and guidance throughout the course of the project.
