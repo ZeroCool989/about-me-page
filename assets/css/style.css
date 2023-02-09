@@ -56,7 +56,7 @@ header{
     height:100%;
 }
 
-/*nav bar*/
+/*navbar*/
 
 nav{
     margin-bottom: 120px;
@@ -164,16 +164,19 @@ footer h2 {
     font-size: 50px;
     text-align: center;
 }
+
 #schedule-a-meeting{
     text-align: center;
-    max-width: 90%;  
+    max-width: 100%;  
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin-left: 50px;
-    
 }
 
+#schedule-a-meeting p{
+    font-size: 30px;
+    text-align: center;
+}
 
 .social-networks {
     text-align: center;
