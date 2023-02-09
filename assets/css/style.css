@@ -91,14 +91,17 @@ label[for="toggle_button"] span {
     justify-content: center;
     align-items: center;
     gap: 100px;
+    flex-wrap: wrap-reverse;
 }
 
 .about_me_container{
     width: 750px;
+    max-width: 90%;
 }
 
 #about_me_section img  {
     width: 400px;
+    max-width: calc(90%-30px);
     border: 15px solid white;
 }
 
@@ -142,6 +145,14 @@ label[for="toggle_button"] span {
    }
     label[for="toggle_button"] {
         display: block;
+    }
+    /*about me section*/
+    #about_me_section{
+        padding: 50px;
+    }
+    #about_me_section h2{
+        text-align: center;
+        font-size: 12vw;
     }
 }
 
