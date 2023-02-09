@@ -48,3 +48,23 @@ header{
     height:100%;
 }
 
+/*nav bar*/
+
+nav{
+    margin-bottom: 120px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px
+}
+
+nav a {
+    color:white;
+    text-decoration: none;
+}
+nav a:hover {
+    color: whitesmoke;
+}
+
