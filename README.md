@@ -86,6 +86,10 @@ HTML Validator:
 
 There where 0 errors found.
 
+CSS Validator
+![image](https://user-images.githubusercontent.com/75548207/217774251-ed738a09-5b52-4b08-bc00-aaf8f27e9494.png)
+
+No errors found
 
 Conclusion
 This one-page website provides a quick and easy way for users to learn about me and my skills. I hope you enjoy exploring it and learning more about me!
