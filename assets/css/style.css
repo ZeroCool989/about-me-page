@@ -27,6 +27,8 @@ header{
     display: flex;
     justify-content:center;
     align-items: center;
+    gap: 50px;
+    flex-wrap: wrap;
 }
 
 .header_text{
@@ -36,6 +38,8 @@ header{
 .circle{
     height: 600px;
     width: 600px;
+    max-height: 80vw;
+    max-width: 80vw;
     overflow: hidden;
     border-radius: 50%;
     border: 20px solid white;
@@ -67,4 +71,49 @@ nav a {
 nav a:hover {
     color: whitesmoke;
 }
+
+#toggle_button{
+    display: none;
+}
+
+label[for="toggle_button"] {
+    display: none;
+}
+label[for="toggle_button"] span {
+    font-size: 40px;
+}
+
+/*Media Queries for small displays*/
+
+@media (max-width:800px){
+    h1{
+        font-size: 12vw;
+        text-align: center;
+    }
+    .subheading {
+        text-align: center;
+    }
+    nav{
+        position: absolute;
+        background-color: #a0d2eb;
+        padding: 15px;
+        top: 0;
+        left: 0; 
+        border-radius: 0 0 25px 0;
+        border: 5px solid white;
+    }
+
+    nav ul {
+        display: none;
+        flex-direction: column;
+    }
+
+   #toggle_button:checked ~ul {
+        display: flex;
+   }
+    label[for="toggle_button"] {
+        display: block;
+    }
+}
+
 
