@@ -27,7 +27,7 @@ I chose a colour palette based around lightblues & grays as these colours i find
 I used Google fonts Poppins across the entire website, I felt Poppins was a fun text and stood out on the page but I also wanted something easy to read.
 
 Features
-This is a fully responsive website and can be viewed on mobile, tablet, laptop. PC; the page is divided into the four sections listed in the navbar. Where a colour background has been used withc a light blue color and the text is white/vlue combination. All of the website  use the font poppins this consistency has been used across the website to create a coherent design.
+This is a fully responsive website and can be viewed on mobile, tablet, laptop. PC; the page is divided into the four sections listed in the navbar. Where a colour background has been used withc a light blue color and the text is white/blue combination. All of the website  use the font poppins this consistency has been used across the website to create a coherent design.
 
 Navbar
 The navbar is placed on top of a responsive image which acts as a header, when viewed on smaller screens I opted for the menu to collapse into a hamburger icon as I still wanted to image to be seen. 
@@ -39,7 +39,7 @@ Services
 This section explains which services i offer front end and backend.  
 
 Social Media / Contact
-At the bottom of the page, there is a contact form that users can use to get in touch with me. They can also find my email address and links to my social media profiles. There ean even schedule a meeting over calendly.
+At the bottom of the page, there is a contact form that users can use to get in touch with me. They can also find my email address and links to my social media profiles. There can even schedule a meeting over calendly.
 
 Feedback
 If you have any feedback or suggestions, please feel free to contact me, my contact information are provided on the website.I am always looking for ways to improve my website and provide a better user experience.
@@ -55,7 +55,7 @@ Used to style all the web content across the project.
 Google Fonts
 Used to obtain the fonts linked in the stylesheet, fonts used were Poppins 
 Font Awesome
-Used to obtain the social media icons used in the footer and the icons in La Petite Review.
+Used to obtain the social media icons used in the footer and the icons.
 Google Developer Tools
 Used as a primary method of fixing spacing issues, finding bugs, and testing responsiveness across the project.
 GitHub
