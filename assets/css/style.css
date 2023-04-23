@@ -6,7 +6,7 @@
 
 body {
     min-height: 100vh;
-    background-color: #a0d2eb;
+    background-color: #297AE3;
     font-family: poppins, sans-serif;
     font-size: 20px;
     color: white;
@@ -127,7 +127,7 @@ label[for="toggle_button"] span {
 
 #services_section{
     padding: 70px 0;
-    background-color:  #a0d2eb;
+    background-color:   #297AE3;
 }
 
 #services_section h2{
