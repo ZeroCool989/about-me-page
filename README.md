@@ -1,9 +1,11 @@
-About Me
-Visit my Website here: https://zerocool989.github.io/porfolio-project-1/
+# A Website About Myself 
+
+[Visit the website here](https://zerocool989.github.io/porfolio-project-1/)
+
 
 Responsivness: https://ui.dev/amiresponsive?url=https://zerocool989.github.io/porfolio-project-1/
 
-![Responsivnes](https://user-images.githubusercontent.com/75548207/217771292-099799bf-7c52-47a9-ad7b-a13e38e50815.PNG)
+![Responsivnes](https://ui.dev/amiresponsive?url=https://zerocool989.github.io/porfolio-project-1/)
 
 
 This is a simple one-page website to give an introduction to myself and showcase my skills and experiences. The website provides an overview  about me.
