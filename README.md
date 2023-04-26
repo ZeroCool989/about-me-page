@@ -33,94 +33,99 @@ I chose the following order for the information:
 as I felt this would allow the information to be digested in the best way. I wanted users to be able to find information quickly. The navbar is also responsive and transforms into a hambureger menu wenn displayed on smaller display which gives a positive user experieance.
 
 Navbar image:
+
 ![image](https://user-images.githubusercontent.com/75548207/234724681-ac7e1cf0-666c-4523-98e1-8f85a51276eb.png)
 
 Navbar in hamburger menu form image:
+
 ![image](https://user-images.githubusercontent.com/75548207/234724947-0ce18299-756c-47d4-9aa2-41d0ff1724e6.png)
 
 ## Surface:
-I chose a colour palette based around lightblues & grays as these colours i find appealing; I want the users to feel calm and at ease when visiting this website. Lightblue colors work calmly on people therefore the choice. I paired these with a lighter off-white to allow for appropriate contrast.
+I chose a colour palette based around blues & grays as these colours i find appealing. I want the users to feel calm and at ease when visiting this website. Blue colors work calmly on people therefore the choice. I paired these with a lighter off-white to allow for appropriate contrast.
 
 I used Google fonts Poppins across the entire website, I felt Poppins was a fun text and stood out on the page but I also wanted something easy to read.
 
-Features
-This is a fully responsive website and can be viewed on mobile, tablet, laptop. PC; the page is divided into the four sections listed in the navbar. Where a colour background has been used withc a light blue color and the text is white/blue combination. All of the website  use the font poppins this consistency has been used across the website to create a coherent design.
+## Features:
+This is a fully responsive website and can be viewed on mobile, tablet, laptop. PC. The page is divided into the four sections listed in the navbar. Where a colour background has been used with a light blue color and the text is white/blue combination. All of the website  use the font poppins this consistency has been used across the website to create a coherent design.
 
-Navbar
+### Navbar
 The navbar is placed on top of a responsive image which acts as a header, when viewed on smaller screens I opted for the menu to collapse into a hamburger icon as I still wanted to image to be seen. 
 
-About Me
+### About Me
 This is where I introduce myself and the page and give a brief insight into why it was created. I wanted to keep this section simple and clean as there is plenty of information that follows.
 
-Services
+### Services
 This section explains which services i offer front end and backend.  
 
-Social Media / Contact
+### Social Media / Contact
 At the bottom of the page, there is a contact form that users can use to get in touch with me. They can also find my email address and links to my social media profiles. There can even schedule a meeting over calendly.
 
-Feedback
+### Feedback
 If you have any feedback or suggestions, please feel free to contact me, my contact information are provided on the website.I am always looking for ways to improve my website and provide a better user experience.
 
-Technologies Used
+## Technologies Used:
 I have used several technologies that have enabled this design to work:
 
-HTML
+### HTML
 Used as the basic building block for the project and to structure the content.
-CSS
+### CSS
 Used to style all the web content across the project.
 
-Google Fonts
+### JavaScript
+Used to add calendly that users can make an appointment with me.
+
+### Google Fonts
 Used to obtain the fonts linked in the stylesheet, fonts used were Poppins 
-Font Awesome
+### Font Awesome
 Used to obtain the social media icons used in the footer and the icons.
-Google Developer Tools
+### Google Developer Tools
 Used as a primary method of fixing spacing issues, finding bugs, and testing responsiveness across the project.
-GitHub
+### GitHub
 Used to store code for the project after being pushed.
-Git
+### Git
 Used for version control by utilising the Gitpod terminal to commit to Git and Push to GitHub.
-Gitpod
+### Gitpod
 Used as the development environment.
-W3C Markup Validation Service
+### W3C Markup Validation Service
 Used to validate all HTML code written and used in this webpage.
-W3C CSS Validation Service
+### W3C CSS Validation Service
 Used to validate all CSS code written and used in this webpage.
-AmIResponsive
+### AmIResponsive
 Used to proof responsivnes of the website.
-Calendly
+### Calendly
 Used to generate a link where people can schedule a meeting with me.
 
-Lighthouse
+### Lighthouse
 Lighthouse is a feature of Google Chrome developer tools and is used to assess the performance of the website and its features. Peas see assessment below:
 
-For Desktop devices:
+### For Desktop devices:
 
 ![image](https://user-images.githubusercontent.com/75548207/217777043-7dba380d-dfd6-4f57-a567-0cefd3159f84.png)
 
-For Mobile devices:
+### For Mobile devices:
 
 ![image](https://user-images.githubusercontent.com/75548207/217777744-aa54ed49-fc68-426d-b329-afb2aa822a4b.png)
 
 
-HTML and CSS Validation
+## HTML and CSS Validation
 I validated both my HTML and CSS code after building the website. It allowed me to incrementally improve my code and upon completion, there were 0 errors found.
 
-HTML Validator:
+### HTML Validator:
 ![image](https://user-images.githubusercontent.com/75548207/217772571-d67d6f10-8a02-4ff0-82ec-3341e53dcaf8.png)
 
 There where 0 errors found.
 
-CSS Validator
+### CSS Validator
 ![image](https://user-images.githubusercontent.com/75548207/217774251-ed738a09-5b52-4b08-bc00-aaf8f27e9494.png)
 
 No errors found
 
-Conclusion
+## Conclusion:
 This one-page website provides a quick and easy way for users to learn about me and my skills. I hope you enjoy exploring it and learning more about me!
 
-Credits
+## Credits:
 I have used a number of resources to produce this website, where code has been used found from another source this is credited as a comment within the HTML, CSS files.
 
 
-Acknowledgements
+## Acknowledgements:
 I would like to thank my course mentor Harry Dhillon for his support and guidance throughout the course of the project.
