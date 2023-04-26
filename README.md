@@ -8,23 +8,37 @@
 ![image](https://user-images.githubusercontent.com/75548207/234722519-866ff176-2702-4dc7-8924-b69307059d01.png)
 
 
+## Background:
 
-This is a simple one-page website to give an introduction to myself and showcase my skills and experiences. The website provides an overview  about me.
+This is a simple one-page website to give an introduction about myself and to showcase my skills and experiences. The website provides an overview  about me.
 
-Technology Used
-The website is built using HTML, CSS. The design is clean and modern, making it easy for users to quickly find the information they are looking for.
+## Technology Used:
+The website is built using HTML, CSS and JavaScript. The design is clean and modern, making it easy for users to quickly find the information they are looking for.
 
+## Structure:
 This website is made up of the following sections:
 
-1.Header: Introduction (Introduction/ Profile Picture
-2.About Me Section
-3.Service Section 
-4.Footer(Social Media / Contact)
+1. Header: Introduction (Introduction/ Profile Picture) 
+2. About Me Section
+3. Service Section 
+4. Footer(Contact  / Social Networks)
 
-Structure
-The website is designed to be user-friendly, with a simple and intuitive navigation system. Users can easily navigate between sections using the menu at the top of the page. I chose the following order for the information 'About Me > Services > Social Media/ Contacts', as I felt this would allow the information to be digested in the best way. I wanted users to be able to find information quickly. The navbar is also responsive and transfors into a hambureger menu wenn displayed on smaller display which gives a positive user experieance.
+The website is designed to be user-friendly, with a simple and intuitive navigation system. Users can easily navigate between sections using the menu at the top of the page. 
+I chose the following order for the information:
+* About Me  
+* Services 
+* Contacts 
+* Social Networks 
 
-Surface
+as I felt this would allow the information to be digested in the best way. I wanted users to be able to find information quickly. The navbar is also responsive and transforms into a hambureger menu wenn displayed on smaller display which gives a positive user experieance.
+
+Navbar image:
+![image](https://user-images.githubusercontent.com/75548207/234724681-ac7e1cf0-666c-4523-98e1-8f85a51276eb.png)
+
+Navbar in hamburger menu form image:
+![image](https://user-images.githubusercontent.com/75548207/234724947-0ce18299-756c-47d4-9aa2-41d0ff1724e6.png)
+
+## Surface:
 I chose a colour palette based around lightblues & grays as these colours i find appealing; I want the users to feel calm and at ease when visiting this website. Lightblue colors work calmly on people therefore the choice. I paired these with a lighter off-white to allow for appropriate contrast.
 
 I used Google fonts Poppins across the entire website, I felt Poppins was a fun text and stood out on the page but I also wanted something easy to read.
