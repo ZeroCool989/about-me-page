@@ -3,9 +3,10 @@
 [Visit the website here](https://zerocool989.github.io/porfolio-project-1/)
 
 
-Responsivness: https://ui.dev/amiresponsive?url=https://zerocool989.github.io/porfolio-project-1/
+## Responsivness: 
 
-![Responsivnes](https://ui.dev/amiresponsive?url=https://zerocool989.github.io/porfolio-project-1/)
+![image](https://user-images.githubusercontent.com/75548207/234722519-866ff176-2702-4dc7-8924-b69307059d01.png)
+
 
 
 This is a simple one-page website to give an introduction to myself and showcase my skills and experiences. The website provides an overview  about me.
