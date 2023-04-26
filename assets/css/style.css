@@ -61,16 +61,19 @@ header{
 
 nav{
     position: fixed;
-    top: 20px;
-    left: 40px;
+    top: 0px;
+    left:0;
     width: 100%;
-    z-index: 999; 
+    background-color: #494D5F;
 }
 
 nav ul {
     list-style: none;
     display: flex;
     gap: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: 25px;
 }
 
 nav a {
