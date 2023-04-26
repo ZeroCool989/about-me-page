@@ -246,6 +246,12 @@ footer h2 {
         font-size: 12vw;
     }
 
+    #about_me_section img {
+        width: 90%;
+    }
+
+
+/*Footer section*/
     #schedule-a-meeting{
         text-align: center;
         max-width: 90%;
