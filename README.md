@@ -199,7 +199,14 @@ This one-page website provides a quick and easy way for users to learn about me 
 
 ## Credits:
 I have used a number of resources to produce this website, where code has been used found from another source this is credited as a comment within the HTML, CSS files.
+* Youtube was great resource for answering questions I had. Where several tutorials where helpful.
+https://www.youtube.com/watch?v=qFdJsYiCcPI&ab_channel=Coding-kurzundknapp
+https://www.youtube.com/watch?v=UZidx3258k8&ab_channel=AdityaMandil
+https://www.youtube.com/watch?v=jx5jmI0UlXU
+
+This Youtube Channel was very useful:
+https://www.youtube.com/@WebDevSimplified
 
 
 ## Acknowledgements:
-I would like to thank my course mentor Harry Dhillon for his support and guidance throughout the course of the project.
+I would like to thank my course mentor Harry Dhillon for his support and guidance throughout the course of the project and the Slack Community.
