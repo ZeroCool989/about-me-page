@@ -164,6 +164,7 @@ label[for="toggle_button"] span {
 footer{
     padding: 70px 0;
     background-color:#494D5F;
+    text-decoration: none;
 }
 
 footer h2 {
@@ -191,7 +192,6 @@ footer h2 {
 .social-networks>li {
     display: inline;
     text-align: center;
-    
 }
 
 .social-networks i {
@@ -200,6 +200,7 @@ footer h2 {
     color: white;
     display: inline-flex;
     padding:20px;
+    text-decoration: none;
 }
 
 

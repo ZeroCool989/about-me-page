@@ -3,19 +3,15 @@
 [Visit the website here](https://zerocool989.github.io/porfolio-project-1/)
 
 
-## Responsivness: 
+## Responsivness
 
 ![image](https://user-images.githubusercontent.com/75548207/234722519-866ff176-2702-4dc7-8924-b69307059d01.png)
 
 
-## Background:
+## Background
 
 This is a simple one-page website to give an introduction about myself and to showcase my skills and experiences. The website provides an overview  about me.
-
-## Technology Used:
-The website is built using HTML, CSS and JavaScript. The design is clean and modern, making it easy for users to quickly find the information they are looking for.
-
-## Structure:
+## Structure
 This website is made up of the following sections:
 
 1. Header: Introduction (Introduction/ Profile Picture) 
@@ -40,12 +36,13 @@ Navbar in hamburger menu form image:
 
 ![image](https://user-images.githubusercontent.com/75548207/234724947-0ce18299-756c-47d4-9aa2-41d0ff1724e6.png)
 
-## Surface:
+# UX
+## Surface
 I chose a colour palette based around blues & grays as these colours i find appealing. I want the users to feel calm and at ease when visiting this website. Blue colors work calmly on people therefore the choice. I paired these with a lighter off-white to allow for appropriate contrast.
 
 I used Google fonts Poppins across the entire website, I felt Poppins was a fun text and stood out on the page but I also wanted something easy to read.
 
-## Features:
+## Features
 This is a fully responsive website and can be viewed on mobile, tablet, laptop. PC. The page is divided into the four sections listed in the navbar. Where a colour background has been used with a light blue color and the text is white/blue combination. All of the website  use the font poppins this consistency has been used across the website to create a coherent design.
 
 ### Navbar
@@ -63,7 +60,7 @@ At the bottom of the page, there is a contact form that users can use to get in 
 ### Feedback
 If you have any feedback or suggestions, please feel free to contact me, my contact information are provided on the website.I am always looking for ways to improve my website and provide a better user experience.
 
-## Technologies Used:
+# Technologies Used
 I have used several technologies that have enabled this design to work:
 
 ### HTML
@@ -95,30 +92,70 @@ Used to proof responsivnes of the website.
 ### Calendly
 Used to generate a link where people can schedule a meeting with me.
 
-### Lighthouse
-Lighthouse is a feature of Google Chrome developer tools and is used to assess the performance of the website and its features. Peas see assessment below:
-
-### For Desktop devices:
+# Testing
+## Lighthouse
+Lighthouse is a feature of Google Chrome developer tools and is used to assess the performance of the website and its features. Please see assessment below:
 
 ![image](https://user-images.githubusercontent.com/75548207/234728004-f17b4a76-ab86-4bb5-8dcd-92ba2cdf4ccf.png)
 
-### For Mobile devices:
-
-![image](https://user-images.githubusercontent.com/75548207/234728240-c7ee8678-0b53-4cb7-8f55-9248d464a72e.png)
-
+I am very pleased to hit high scores in lighthouse assessment
 
 ## HTML and CSS Validation
 I validated both my HTML and CSS code after building the website. It allowed me to incrementally improve my code and upon completion, there were 0 errors found.
 
-### HTML Validator:
+## HTML Validator:
 ![image](https://user-images.githubusercontent.com/75548207/234729580-1185d0c5-5d59-46e4-ae9c-98d1f710f93c.png)
 
 There where 0 errors found.
 
-### CSS Validator
+## CSS Validator
 ![image](https://user-images.githubusercontent.com/75548207/234729277-d504beda-fd5a-4948-aa2f-f0b4817c3b51.png)
 
 No errors found
+
+## 404 Error Page
+Added 404 error page for defensive design
+If a user navigates to a page that does not exist on my website, they will encounter a 404 error page. It's important to provide a helpful and informative message on this page to assist users in finding the content they are looking for.
+
+![image](https://user-images.githubusercontent.com/75548207/234768924-f1dfc28b-addc-452c-a328-cc3d82c2bc88.png)
+
+Used the followig tutorial to build the error message:
+
+https://www.youtube.com/watch?v=UZidx3258k8&ab_channel=AdityaMandil
+## Google Chrome Development Tools
+Google Chrome DevTools where a powerful tool that  helped me in many ways, including testing the responsiveness of a website. When it comes to testing the responsiveness of a website, DevTools has several useful features that allowed me to adjust the screen size and simulate different devices, among other things.
+
+One of the most useful features of DevTools for testing responsiveness is the device toolbar. This toolbar allowed me to simulate various devices with different screen sizes, including popular devices such as the iPhone, iPad, and Android devices. By using the device toolbar, i could quickly check how the website looks and behaves on different devices.
+
+![image](https://user-images.githubusercontent.com/75548207/234770096-dfeacb53-08dc-4319-97d2-117d7527da0d.png)
+
+Another useful feature of DevTools is the ability to adjust the screen size manually. I could drag the edge of the window to adjust the width of the screen, allowing me to see how the website responds to different screen sizes.
+
+## Go Live extension from gitpod
+The "Go Live" extension in Gitpod is a handy tool that allowed me to quickly launch a web server and preview my website or web application in the browser.
+
+To use the Go Live extension in Gitpod, follow these steps:
+
+1. Open your Gitpod workspace and ensure that your project is running.
+
+2. Install go live extension.
+![image](https://user-images.githubusercontent.com/75548207/234772196-1d126ffe-e8c8-4a36-ae1e-f659ea628590.png)
+
+3. Click on the "Go Live" icon in the bottom-left corner of the Gitpod window.
+
+![image](https://user-images.githubusercontent.com/75548207/234772848-4b68f245-8dea-435a-93a3-225ea86d2723.png)
+
+4. A new tab will open in your default browser, displaying the live version of your website or web application.
+
+5. You can now interact with your website or web application as if it were deployed to a live server.
+
+Any changes you make to your code will be immediately reflected in the browser. You can use Gitpod's built-in code editor to make changes and save your files.
+
+When you are finished testing, you can close the browser tab and stop the web server by clicking on the "Stop" button in the Gitpod terminal.
+
+The Go Live extension in Gitpod is a convenient way to test your website or web application without having to deploy it to a live server. It is especially useful during development, when you want to quickly preview changes without the hassle of deploying to a remote server.
+
+Also i found that the changes made in the code where quicker showen in the browser than looking the changes  over (python3 -m http.server) command where the changes where showen with a little delay.
 
 ## Deployment
 
