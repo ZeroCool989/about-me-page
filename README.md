@@ -100,11 +100,11 @@ Lighthouse is a feature of Google Chrome developer tools and is used to assess t
 
 ### For Desktop devices:
 
-![image](https://user-images.githubusercontent.com/75548207/217777043-7dba380d-dfd6-4f57-a567-0cefd3159f84.png)
+![image](https://user-images.githubusercontent.com/75548207/234728004-f17b4a76-ab86-4bb5-8dcd-92ba2cdf4ccf.png)
 
 ### For Mobile devices:
 
-![image](https://user-images.githubusercontent.com/75548207/217777744-aa54ed49-fc68-426d-b329-afb2aa822a4b.png)
+![image](https://user-images.githubusercontent.com/75548207/234728240-c7ee8678-0b53-4cb7-8f55-9248d464a72e.png)
 
 
 ## HTML and CSS Validation
