@@ -111,12 +111,12 @@ Lighthouse is a feature of Google Chrome developer tools and is used to assess t
 I validated both my HTML and CSS code after building the website. It allowed me to incrementally improve my code and upon completion, there were 0 errors found.
 
 ### HTML Validator:
-![image](https://user-images.githubusercontent.com/75548207/217772571-d67d6f10-8a02-4ff0-82ec-3341e53dcaf8.png)
+![image](https://user-images.githubusercontent.com/75548207/234729580-1185d0c5-5d59-46e4-ae9c-98d1f710f93c.png)
 
 There where 0 errors found.
 
 ### CSS Validator
-![image](https://user-images.githubusercontent.com/75548207/217774251-ed738a09-5b52-4b08-bc00-aaf8f27e9494.png)
+![image](https://user-images.githubusercontent.com/75548207/234729277-d504beda-fd5a-4948-aa2f-f0b4817c3b51.png)
 
 No errors found
 
