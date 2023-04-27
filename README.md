@@ -66,7 +66,7 @@ At the bottom of the page, there is a contact form that users can use to get in 
 
 ![image](https://user-images.githubusercontent.com/75548207/234777101-39291cab-d114-47f8-8811-1880aa41f5e9.png)
 
-## Social Networks
+### Social Networks
 They can also find my email address and links to my social media profiles. There can even schedule a meeting over calendly.
 
 ![image](https://user-images.githubusercontent.com/75548207/234777333-f88c07ab-e8ad-49b8-820f-76c601b278c3.png)
