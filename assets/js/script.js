@@ -10,3 +10,9 @@ if (hamburger && navLinks) {
         navLinks.classList.remove('nav-active'); // Hide links when clicked
     });
 }
+
+
+document.getElementById('schedule-meeting-button').addEventListener('click', () => {
+    window.open('https://calendly.com/almirdumisic', '_blank');
+});
+
