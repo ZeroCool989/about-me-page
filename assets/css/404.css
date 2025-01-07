@@ -1,0 +1,75 @@
+/* Global Reset */
+body, html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    background-color: #297AE3; /* Matches the site's theme */
+    color: white;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* 404 Container */
+.not-found-container {
+    text-align: center;
+    max-width: 600px;
+    padding: 20px;
+}
+
+.circle-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(255, 255, 255, 0.2); /* Semi-transparent */
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto 20px auto;
+}
+
+.circle i {
+    font-size: 50px;
+    color: white;
+}
+
+/* 404 Title */
+.not-found-title {
+    font-size: 100px;
+    margin: 0;
+    font-weight: bold;
+    letter-spacing: 5px;
+}
+
+/* Not Found Message */
+.not-found-message {
+    font-size: 18px;
+    margin: 20px 0;
+    opacity: 0.9;
+}
+
+/* Button */
+.not-found-button {
+    display: inline-block;
+    background-color: #1f5bbf;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 25px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.not-found-button:hover {
+    background-color: #0d3a7a;
+    transform: scale(1.05);
+}
